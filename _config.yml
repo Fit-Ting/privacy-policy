@@ -2,5 +2,6 @@ title: Fit-Ting Terms of Service
 description: Fit-Ting service terms published via GitHub Pages.
 theme: minima
 lang: ko-KR
-baseurl: /privacy-policy
+url: https://terms.fit-ting.com
+baseurl: ""
 markdown: kramdown
