@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Service
+permalink: /
+---
+
 서비스 이용약관 (Terms of Service)
 최종 수정일: 2026년 5월 1일
 
