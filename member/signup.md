@@ -81,4 +81,4 @@ permalink: /member/signup/
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>

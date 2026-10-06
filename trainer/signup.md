@@ -98,4 +98,4 @@ permalink: /trainer/signup/
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>

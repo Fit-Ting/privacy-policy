@@ -44,7 +44,7 @@ permalink: /marketing/
 2. 동의 후에도 언제든지 다음 방법으로 동의를 철회할 수 있습니다.
    - 앱 내 [설정] > [알림 설정]에서 직접 변경
    - 발송된 메시지 하단의 수신거부 링크 클릭
-   - 고객센터(<contact@fit-ting.com>)로 요청
+   - 고객센터(<contact@fitween.app>)로 요청
 3. 회사는 철회 요청을 접수한 즉시 마케팅 정보 발송을 중단하고, 처리 결과를 이용자에게 통지합니다.
 
 ## 제6조 (영리목적의 광고성 정보 전송)
@@ -58,4 +58,4 @@ permalink: /marketing/
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>

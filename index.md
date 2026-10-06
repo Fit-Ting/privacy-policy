@@ -33,4 +33,4 @@ Fit-Ting은 오버피팅이 운영하는 서비스입니다.
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>

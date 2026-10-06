@@ -38,7 +38,7 @@ permalink: /temp-member/signup/
 ## 제4조 (PIN 및 계정 보안)
 
 1. 임시회원의 인증은 PIN으로 이루어지며, PIN은 본인만 알고 있어야 합니다.
-2. PIN을 분실한 경우 본인을 초대한 트레이너 또는 고객센터(<contact@fit-ting.com>)를 통해 본인 확인을 거친 후 재설정할 수 있습니다.
+2. PIN을 분실한 경우 본인을 초대한 트레이너 또는 고객센터(<contact@fitween.app>)를 통해 본인 확인을 거친 후 재설정할 수 있습니다.
 3. 임시회원은 PIN 또는 초대 코드를 제3자에게 양도·공유해서는 안 됩니다.
 4. PIN은 4자리로 구성되어 보안 수준에 한계가 있으므로, 임시회원은 결제 이력 등 민감한 정보를 다루는 기능을 이용하려면 정식 회원으로 전환할 것을 권장합니다.
 
@@ -78,4 +78,4 @@ permalink: /temp-member/signup/
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>

@@ -86,7 +86,7 @@ permalink: /tos/
 - **사업자등록번호**: 121-63-64266
 - **사업장 소재지**: 충청남도 천안시 서북구 성정공원2길 14, 4층 401호 와이70호 (성정동, 태정프라자)
 - **업태 / 종목**: 정보통신업 / 응용 소프트웨어 개발 및 공급업
-- **이메일**: <contact@fit-ting.com>
+- **이메일**: <contact@fitween.app>
 
 ## 부칙
 
@@ -95,4 +95,4 @@ permalink: /tos/
 
 ---
 
-문의: <contact@fit-ting.com>
+문의: <contact@fitween.app>
